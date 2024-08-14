@@ -1,2 +1,4 @@
-package PACKAGE_NAME;public interface IVehiculo {
+public interface IVehiculo {
+    void avanzar();
+
 }
